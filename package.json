@@ -8,7 +8,9 @@
     "1-1": "node ./day01/part1.js",
     "1-2": "node ./day01/part2.js",
     "2-1": "node ./day02/part1.js",
-    "2-2": "node ./day02/part2.js"
+    "2-2": "node ./day02/part2.js",
+    "3-1": "node ./day03/part1.js",
+    "3-2": "node ./day03/part2.js"
   },
   "author": "Javed Akhtar",
   "license": "ISC",
