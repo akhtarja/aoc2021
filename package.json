@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type" : "module",
   "scripts": {
     "1-1": "node ./day01/part1.js",
     "1-2": "node ./day01/part2.js",
     "2-1": "node ./day02/part1.js",
     "2-2": "node ./day02/part2.js",
     "3-1": "node ./day03/part1.js",
-    "3-2": "node ./day03/part2.js"
+    "3-2": "node ./day03/part2.js",
+    "4-1": "node ./day04/part1.js",
+    "4-2": "node ./day04/part2.js"
   },
   "author": "Javed Akhtar",
   "license": "ISC",
@@ -18,5 +19,8 @@
     "eslint": "^8.3.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "underscore": "^1.13.1"
   }
 }

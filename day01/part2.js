@@ -1,5 +1,4 @@
-import { readFileSync } from 'fs';
-import { parse } from 'path';
+const { readFileSync } = require('fs');
 
 const increasingWindowCount = () => {
   let count = 0;
