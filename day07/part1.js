@@ -1,4 +1,4 @@
-const { readFileSync, readFile } = require('fs');
+const { readFileSync } = require('fs');
 
 const fuelConsumption = () => {
   const filePath = 'day07/testInput.txt';
