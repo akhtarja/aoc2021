@@ -76,4 +76,4 @@ const sumOfUnmarkedItems = (board) => {
   return unmarkedSum;
 };
 
-console.log(`\nDay 4, part 1: ${finalScore()}`);
+console.log(`\nDay 4, part 1: ${finalScore()}\n`);

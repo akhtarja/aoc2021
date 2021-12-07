@@ -53,4 +53,4 @@ const intersectionsCount = (map) => {
   return count;
 };
 
-console.log(`\nDay 5, part 1: ${overlapCount()}`);
+console.log(`\nDay 5, part 1: ${overlapCount()}\n`);
