@@ -15,7 +15,8 @@
     "5-1": "node ./day05/part1.js",
     "5-2": "node ./day05/part2.js",
     "6-1": "node ./day06/part1.js",
-    "6-2": "node ./day06/part2.js"
+    "6-2": "node ./day06/part2.js",
+    "7-1": "node ./day07/part1.js"
   },
   "author": "Javed Akhtar",
   "license": "ISC",
